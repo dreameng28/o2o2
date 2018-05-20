@@ -1,0 +1,37 @@
+----baseline----
+model.best_score: 0.869518, model.best_iteration: 208, model.best_ntree_limit: 209
+output offline model data
+Average auc of train matrix:  0.8067851557660508
+Average auc of validate matrix 0.7139200298230547
+
+----------------
+Average auc of train matrix:  0.7953933577970431
+Average auc of validate matrix 0.7170317220062967
+----------------
+Average auc of train matrix:  0.7468928877515041
+Average auc of validate matrix 0.7038569839362251
+----------------
+Average auc of train matrix:  0.8066934858192979
+Average auc of validate matrix 0.7105861347851391
+----------------
+Average auc of train matrix:  0.8140505074524043
+Average auc of validate matrix 0.7133750073430009
+----------------
+Average auc of train matrix:  0.806861623562331
+Average auc of validate matrix 0.714822686969375
+----------------
+Average auc of train matrix:  0.778828781387601
+Average auc of validate matrix 0.7118155101296332
+----------------
+Average auc of train matrix:  0.7263786034790255
+Average auc of validate matrix 0.691723419557915
+----------------
+Average auc of train matrix:  0.8058867047287068
+Average auc of validate matrix 0.7118378394054927
+----------------
+Average auc of train matrix:  0.8249723735287839
+Average auc of validate matrix:  0.7027981921455577
+----------------
+Average auc of train matrix:  0.8304668855999264
+Average auc of validate matrix 0.713911908543673
+
